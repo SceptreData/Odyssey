@@ -1,0 +1,14 @@
+Now:
+    lume
+    TICK
+    fpsGraph
+    lurker
+
+maybe:
+    hump
+
+later:
+    tserial for saves
+    anim8
+    light_world
+    SHACK (screen shake)
